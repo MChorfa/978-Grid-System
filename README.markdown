@@ -15,19 +15,23 @@ The 978 and companion grid systems are brought to you by Brothers Roloff:
 CSS Usage
 ---------
 
-### Include the CSS framework in your page. ###
-
-Do not include the "demo-files" CSS, as it is for demonstration purposes only.
+### Include the CSS framework in your page ###
 
 	<link rel="stylesheet" href="978.css" />
 
+Note: Do not include the "demo-files" CSS, as it is for demonstration purposes only.
 
-### Wrap your layout in a container element. ###
+
+### Wrap your layout in a container element ###
 
 	<div class="layout-978">
 
 
-### Add rows and columns to achieve the desired layout. ###
+### Add rows and columns to achieve the desired layout ###
+
+978 is a 12 column grid system. Therefore, you can add as many columns to a row as long as they 
+total the number 12. Be sure to total the appropriate number of columns when using the companion 
+grid systems CSS.
 
 	<div class="row">
 		<div class="col2">138px</div>
@@ -35,10 +39,6 @@ Do not include the "demo-files" CSS, as it is for demonstration purposes only.
 		<div class="row-end">&nbsp;</div>
 	</div>
 
-978 is a 12 column grid system. Therefore, you can add as many columns to a row as long as they 
-total the number 12. Be sure to total the appropriate number of columns when using the companion 
-grid systems CSS.
-
-Don't forget to add a "row-end" element immediately after your last column in a row. Placing the 
-ending element here will allow you to apply a background image/color to each row separately and it 
-will grow/repeat vertically to the height of your longest column.
+Don't forget to add a "row-end" element immediately after your last column of a row. Placing the 
+ending element here will allow you to apply a background image or color to each row separately and 
+it will grow/repeat vertically to the height of your longest column.
