@@ -11,6 +11,12 @@ Learn more about 978 for web design:
 The 978 and companion grid systems are brought to you by Brothers Roloff:
 <http://www.brothersroloff.com/>
 
+#### Additional Contributors 
+
+- [Janne Passi](http://www.passiripatti.com/) - OmniGraffle
+- [Eduardo Perez](http://www.eperez.net/) - Photoshop Actions
+- [Pieter van Leeuwen|](http://www.acato.nl/) - Fireworks
+
 
 CSS Usage
 ---------
