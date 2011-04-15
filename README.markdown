@@ -5,17 +5,14 @@ This repository contains a collection of design templates and code to quickly ge
 with the 978 (and companion) grid systems. As we get free time, we will continue to improve this 
 collection over time. We encourage you to contribute as well!
 
-Learn more about 978 for web design:
-<http://978.gs/>
-
-The 978 and companion grid systems are brought to you by Brothers Roloff:
-<http://www.brothersroloff.com/>
+The 978 and companion grid systems are brought to you by [Brothers Roloff](http://www.brothersroloff.com/). 
+Learn more about 978 for web design: <http://978.gs/>
 
 #### Additional Contributors 
 
 - [Janne Passi](http://www.passiripatti.com/) - OmniGraffle
 - [Eduardo Perez](http://www.eperez.net/) - Photoshop Actions
-- [Pieter van Leeuwen|](http://www.acato.nl/) - Fireworks
+- [Pieter van Leeuwen](http://www.acato.nl/) - Fireworks
 
 
 CSS Usage
@@ -23,7 +20,7 @@ CSS Usage
 
 ### Include the CSS framework in your page ###
 
-	<link rel="stylesheet" href="978.css" />
+	<link rel="stylesheet" href="978.css">
 
 Note: Do not include the "demo-files" CSS, as it is for demonstration purposes only.
 
@@ -33,7 +30,7 @@ Note: Do not include the "demo-files" CSS, as it is for demonstration purposes o
 	<div class="layout-978">
 
 
-### Add rows and columns to achieve the desired layout ###
+### Add rows and columns to achieve your desired layout ###
 
 978 is a 12 column grid system. Therefore, you can add as many columns to a row as long as they 
 total the number 12. Be sure to total the appropriate number of columns when using the companion 

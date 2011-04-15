@@ -1,0 +1,7 @@
+/* The following styles are to visualize how the demo code works. Do not include this in your code. */
+
+body { margin: 0px; padding: 0px;  background: #f3e6ea url(978-grid.png) repeat-y center top;; font: 11px/12px "Lucida Sans Unicode", "Lucida Grande", sans-serif; color: #000; }
+div.col1, div.col2, div.col3, div.col4, div.col5, div.col6, div.col7, div.col8, div.col9, div.col10, div.col11, div.col12 { background: #e8cfd7; padding: 20px 0px; }
+div.row { padding-top: 10px; padding-bottom: 10px; text-align: center; }
+div.row:first-child { padding-top: 20px; }
+div.row:last-child { margin-top: 10px; padding: 20px 0px; background: #e8cfd7; }
