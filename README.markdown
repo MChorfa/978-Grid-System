@@ -3,9 +3,9 @@
 
 This repository contains a collection of design templates and code to quickly get you up and running 
 with the 978 (and companion) grid systems. As we get free time, we will continue to improve this 
-collection over time. We encourage you to contribute as well!
+collection over time. We encourage you to contribute as well.
 
-The 978 and companion grid systems are brought to you by [Brothers Roloff](http://www.brothersroloff.com/). 
+The 978 and companion grid systems are brought to you by [Brothers Roloff](http://www.brothersroloff.com/).  
 Learn more about 978 for web design: <http://978.gs/>
 
 #### Additional Contributors 
